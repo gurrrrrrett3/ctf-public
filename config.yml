@@ -1,0 +1,10 @@
+chatCooldownSeconds: 0.5
+defaultGameMode: pvp
+plugins:
+  titleInfo:
+    updateSeconds: 4
+  logs:
+    webhookEnabled: false
+    webhookPath: '/api/webhooks/xxxxx/xxxxxxxxxx'
+modes:
+    test: "test"

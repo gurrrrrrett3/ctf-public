@@ -1,0 +1,6 @@
+- direct /play access
+- extra loadout slots
+- patreon-only emotes/hats/poses
+- necklace
+- icon next to name
+- custom name color on leaderboards

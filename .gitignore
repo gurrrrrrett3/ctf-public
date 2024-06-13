@@ -1,0 +1,9 @@
+logs/
+perfmon/
+plugins/radio/audio/
+admin-log.txt
+ctf.db-shm
+ctf.db-wal
+plugins/noclip.lua
+plugins/real_plugin.lua
+.jpxs/

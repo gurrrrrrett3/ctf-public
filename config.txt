@@ -1,0 +1,9 @@
+port=8000
+servermaxbytespersecond=9999999
+servername=_
+adminpassword=
+serverpassword=
+gametype=4
+maxnumofplayers=16
+roundtime=11
+setcpuaffinity=1
