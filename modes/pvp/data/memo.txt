@@ -7,7 +7,6 @@ Developed by gart
 
 - Jpsh
 - checkraisefold
-- Adyox0
 
 # Change Log
 
